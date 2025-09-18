@@ -1,0 +1,1 @@
+Verify Widget README
