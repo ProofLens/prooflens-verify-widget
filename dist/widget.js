@@ -59,3 +59,4 @@
   (document.readyState==="loading")?document.addEventListener("DOMContentLoaded",boot):boot();
   window.ProofLensVerify={attach};
 })();
+
